@@ -1,8 +1,10 @@
 # guanngxu-lyric-markdown-preview README
 
-This is the README for your extension "guanngxu-lyric-markdown-preview". After writing up a brief description, we recommend including the following sections.
+This is the README for Markdown Preview Guanngxu-Lyric Styling。
 
 ## Features
+
+![preview-code.png](./imgs/preview-code.png)
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
