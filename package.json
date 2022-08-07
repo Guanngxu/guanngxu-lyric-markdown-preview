@@ -19,8 +19,8 @@
 	"contributes": {
 		"markdown.markdownItPlugins": true,
 		"markdown.previewStyles": [
-			"./dist/test.css",
-			"./dist/github-markdown.css",
+			"./dist/base.css",
+			"./dist/guanngxu-lyric-markdown.css",
 			"./dist/highlight-js.css"
 		]
 	},
