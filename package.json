@@ -1,0 +1,30 @@
+{
+  	"name": "guanngxu-lyric-markdown-preview",
+	"displayName": "guanngxu-lyric-markdown-preview",
+	"description": "Markdown Preview Guanngxu-Lyric Styling",
+	"version": "1.0.0",
+	"keywords": [
+		"markdown",
+		"markdown style",
+		"style"
+	],
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [],
+	"main": "./dist/extension.js",
+	"contributes": {
+		"markdown.markdownItPlugins": true,
+		"markdown.previewStyles": [
+			"./dist/test.css",
+			"./dist/github-markdown.css",
+			"./dist/highlight-js.css"
+		]
+	},
+	"scripts": {
+		
+	}
+}
