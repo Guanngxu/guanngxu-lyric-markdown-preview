@@ -1,9 +1,15 @@
-# guanngxu-lyric-markdown-preview README
+## guanngxu-lyric-markdown-preview
 
-This is the README for Markdown Preview Guanngxu-Lyric Styling。
+A Markdown Style Write By [Guanngxu](https://github.com/Guanngxu/guanngxu-lyric-markdown-preview)
 
 ## Features
 
 ![preview1.png](./imgs/preview1.png)
 
 ![preview2.png](./imgs/preview2.png)
+
+## Thanks
+
+- [lyricat/wechat-format](https://github.com/lyricat/wechat-format)
+- [mjbvz/vscode-github-markdown-preview-style
+](https://github.com/mjbvz/vscode-github-markdown-preview-style.git)

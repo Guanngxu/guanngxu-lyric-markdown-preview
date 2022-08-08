@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "guanngxu-lyric-markdown-preview" extension will be documented in this file.
+### 1.0.1 - Aug 9, 2022
+- Fix bash code style bug
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
+### 1.0.0 - Aug 8, 2022
 - Initial release
