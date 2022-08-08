@@ -3,6 +3,11 @@
 	"displayName": "guanngxu-lyric-markdown-preview",
 	"description": "Markdown Preview Guanngxu-Lyric Styling",
 	"version": "1.0.0",
+	"publisher": "Guanngxu",
+    "repository": {
+        "url": "https://github.com/Guanngxu/guanngxu-lyric-markdown-preview"
+    },
+	"icon": "imgs/logo.png",
 	"keywords": [
 		"markdown",
 		"markdown style",
