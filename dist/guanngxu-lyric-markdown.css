@@ -69,7 +69,7 @@ strong {
 table {
     text-align: left;
     border-collapse: collapse;
-    margin: 20px 0;
+    margin: 20px auto;
 }
 
 thead {
@@ -129,4 +129,8 @@ img {
     margin: 20px auto;
     border-radius: 4px;
     display: block;
+}
+
+.katex span {
+    color: #333;
 }
