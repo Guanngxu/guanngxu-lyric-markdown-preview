@@ -18,8 +18,8 @@
 
 
 .markdown-body .hljs {
-  color: var(--color-fg-default);
-  background: var(--color-canvas-subtle);
+  color: #333;
+  background: rgba(0, 0, 0, 0.03);
 }
 
 .markdown-body .hljs-doctag,
