@@ -66,6 +66,10 @@
   color: #ca7d37;
 }
 
+.markdown-body .hljs-params {
+  color: #333;
+}
+
 .markdown-body .hljs-code,
 .markdown-body .hljs-comment,
 .markdown-body .hljs-formula {
