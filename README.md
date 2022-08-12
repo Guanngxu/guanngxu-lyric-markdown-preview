@@ -1,12 +1,15 @@
-## guanngxu-lyric-markdown-preview
 
-A Markdown Style Write By [Guanngxu](https://github.com/Guanngxu/guanngxu-lyric-markdown-preview)
+[![](https://vsmarketplacebadge.apphb.com/version/Guanngxu.guanngxu-lyric-markdown-preview.svg)](https://marketplace.visualstudio.com/items?itemName=Guanngxu.guanngxu-lyric-markdown-preview)
+
+Changes VS Code's built-in markdown preview.
 
 ## Features
 
 ![preview1.png](./imgs/preview1.png)
 
 ![preview2.png](./imgs/preview2.png)
+
+![preview3.png](./imgs/preview3.png)
 
 ## Thanks
 

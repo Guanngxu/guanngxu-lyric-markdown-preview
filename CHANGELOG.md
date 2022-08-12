@@ -1,5 +1,8 @@
 # Change Log
 
+### 1.0.3 - Aug 12, 2022
+- Change link hover style
+
 ### 1.0.2 - Aug 9, 2022
 - Add table border
 

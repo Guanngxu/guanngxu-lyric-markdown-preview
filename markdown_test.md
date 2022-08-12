@@ -1,19 +1,39 @@
-# 一级标题
-## 二级标题
-### 三级标题
-#### 四级标题
-##### 五级标题
-###### 六级标题
+# Heading h1
 
-内联代码： a paragraphg with inline code `{code: 0}`。
+## Heading h2
 
-**加粗**。
+### Heading h3
 
-*倾斜*
+#### Heading h4
 
-超链接： [Github](https://github.com/Guanngxu/guanngxu-lyric-markdown-preview)
+##### Heading h5
 
-表格示例：
+###### Heading h6
+
+
+### Paragraph
+
+This text is a paragraph.
+
+This is **bold** and this is _italic_.
+
+This is link：[Github](https://github.com/Guanngxu/guanngxu-lyric-markdown-preview)
+
+### Code blocks
+
+This is an `in-line` code block.
+
+```c
+#include <stdio.h>
+
+int main()
+{
+  printf("hello world\n");
+  return 0;
+}
+```
+
+### Tables
 
 | Header 1 | Header 2 |
 | --- | --- |
@@ -21,40 +41,23 @@
 | Key 2 | Value 2 |
 | Key 3 | Value 3 |
 
-数学公式示例：
+### Ordered  Lists
 
-$$
-f(x)=2x+1 \\
-=2+1 \\
-=3
-$$
+1. Item one
+   1. Sub item one
+   2. Sub item two
+   3. Sub item three
+2. Item two
 
-代码块示例：
+### Unordered lists
 
-```cpp
-#include <stdio.h>
+- Item 1
+- Item 2
+- Item 3
+   - Sub item 1
+   - Sub item 2
+- Item 4
 
-const int MAX = 10;
-int cache[MAX] = {0};
+### Images
 
-int fib(int x) {
-  if (x == 1) return 1;
-  if (x == 0) return 0;
-  if (cache[x] == 0) {
-    int ret = fib(x - 1) + fib(x - 2);
-    cache[x] = ret;
-  }
-  return cache[x];
-}
-
-int main() {
-    int i;
-    printf("fibonacci series:\n");
-    for (i = 0; i < MAX; ++i) {
-        printf("%d ", fib(i));
-    }
-    return 0;
-}
-```
-
-图片：![githubusercontent](https://avatars.githubusercontent.com/u/24446756?s=100&v=4)
+![githubusercontent](https://avatars.githubusercontent.com/u/24446756?s=100&v=4)
