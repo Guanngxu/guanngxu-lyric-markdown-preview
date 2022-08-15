@@ -1,5 +1,8 @@
 # Change Log
 
+### 1.0.4 - Aug 15, 2022
+- Change li text indent
+
 ### 1.0.3 - Aug 12, 2022
 - Change link hover style
 
