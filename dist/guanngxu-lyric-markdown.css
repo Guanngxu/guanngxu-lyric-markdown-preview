@@ -123,11 +123,13 @@ ol {
 ul li {
     list-style-type: disc;
     margin: 10px 10px;
+    text-indent: 6px;
 }
 
 ol li {
     list-style-type: decimal;
     margin: 10px 10px;
+    text-indent: 6px;
 }
 
 img {
